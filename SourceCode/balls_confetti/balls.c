@@ -16,7 +16,7 @@
  * Credit to Øyvind Kolås (pippin) for major GEGL contributions
  * 2023 Beaver - Gum Balls Gimp Plugin
 
-Graph here to test plugin without installing paste this syntax inside Gimp's GEGL Graph plugin.
+Graph here to test plugin without installing paste this syntax inside Gimpꞌs GEGL Graph plugin.
 (Requres my plugins Bokeh, thresholdalpha2, and bevel. All which ship with this plugin.
 
 Start of Syntax
